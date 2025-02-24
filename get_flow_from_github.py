@@ -8,3 +8,6 @@ def task1():
 def github_flow():
    result=task1()
    print(result)
+
+if __name__=="__main__":
+   github_flow()
